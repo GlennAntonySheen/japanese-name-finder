@@ -119,7 +119,7 @@ export default function App() {
 	}
 
 	return <PageWrapper >
-		<img src={BackgroundImg} alt='background image' />
+		<img src={BackgroundImg} alt='background wallpaper' />
 		{/* <BackgroundImg /> */}
 		<InputContainer>
 			<input
